@@ -9,6 +9,46 @@
       "id": 2,
       "titulo": "Quem mexeu no meu queijo",
 	  "autor": "Emily Bronte"
+    },
+    {
+	  "id": 3,
+      "titulo": "Eloquent JavaScript, Second Edition",
+      "autor": "Marijn Haverbeke"
+    },
+    {
+	  "id": 4,
+      "titulo": "Learning JavaScript Design Patterns",
+      "autor": "Addy Osmani"
+    },
+    {
+      "id": 5,
+      "titulo": "Speaking JavaScript",
+      "autor": "Axel Rauschmayer"
+    },
+    {
+      "id": 6,
+      "titulo": "Programming JavaScript Applications",
+      "autor": "Eric Elliott",
+    },
+    {
+      "id": 7,
+      "titulo": "Understanding ECMAScript 6",
+      "autor": "Nicholas C. Zakas",
+    },
+    {
+      "id": 8,
+      "titulo": "You Don't Know JS",
+      "autor": "Kyle Simpson",
+    },
+    {
+      "id": 9,
+      "titulo": "Git Pocket Guide",
+      "autor": "Richard E. Silverman",
+    },
+    {
+      "id": 10,
+      "titulo": "Designing Evolvable Web APIs with ASP.NET",
+      "autor": "Glenn Block, et al."
     }
   ],
   "profile": {
