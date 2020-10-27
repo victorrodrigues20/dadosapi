@@ -25,31 +25,6 @@
       "titulo": "Speaking JavaScript",
       "autor": "Axel Rauschmayer"
     },
-    {
-      "id": 6,
-      "titulo": "Programming JavaScript Applications",
-      "autor": "Eric Elliott",
-    },
-    {
-      "id": 7,
-      "titulo": "Understanding ECMAScript 6",
-      "autor": "Nicholas C. Zakas",
-    },
-    {
-      "id": 8,
-      "titulo": "You Dont Know JS",
-      "autor": "Kyle Simpson",
-    },
-    {
-      "id": 9,
-      "titulo": "Git Pocket Guide",
-      "autor": "Richard E. Silverman",
-    },
-    {
-      "id": 10,
-      "titulo": "Designing Evolvable Web APIs with ASP.NET",
-      "autor": "Glenn Block, et al."
-    }
   ],
   "profile": {
     "name": "typicode"
