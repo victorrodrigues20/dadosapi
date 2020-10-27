@@ -9,21 +9,6 @@
       "id": 2,
       "titulo": "Quem mexeu no meu queijo",
 	  "autor": "Emily Bronte"
-    },
-    {
-	  "id": 3,
-      "titulo": "Eloquent JavaScript, Second Edition",
-      "autor": "Marijn Haverbeke"
-    },
-    {
-	  "id": 4,
-      "titulo": "Learning JavaScript Design Patterns",
-      "autor": "Addy Osmani"
-    },
-    {
-      "id": 5,
-      "titulo": "Speaking JavaScript",
-      "autor": "Axel Rauschmayer"
     }
   ],
   "profile": {
